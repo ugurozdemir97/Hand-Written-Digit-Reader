@@ -143,6 +143,7 @@ def quits():  # Delete the temporary image file after quit.
 # ----------------------------------------------- WINDOW SETUP ------------------------------------------------------ #
 
 window = Tk()
+window.title("Hand Written Digit Reader")
 screen_width = window.winfo_screenwidth()
 screen_height = window.winfo_screenheight()
 
