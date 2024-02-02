@@ -1,5 +1,7 @@
 # What is this program?
-This is a program that I write after writing a neural network from scratch: https://github.com/ugurozdemir97/MNIST-Neural-Network-from-scratch
+This is a program that I write after writing a neural network from scratch: 
+
+https://github.com/ugurozdemir97/MNIST-Neural-Network-from-scratch
 
 I've used that program to train the neural network and this program uses those trained weights to predict the digits that you have written. These weights have a success rate of 93% with MNIST dataset (see: https://github.com/ugurozdemir97/MNIST-Neural-Network-from-scratch) but fails more with my hand written digits. But if you wish, you can train the network by writing the correct answer to "Teach" section before sending your drawing. So if you use "Teach" section enough times this program will eventually be able to predict your hand writing with a much better rate.
 
