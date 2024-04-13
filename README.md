@@ -8,3 +8,5 @@ In this program you can write your own digits on the black canvas with mouse and
 
 # How does it work?
 This program simply takes your drawing and converts it (in terms of image and resolution) into the data resembles the data in MNIST dataset. You will see a "temporary.png" in the folder when you send a digit. In this way, artificial intelligence can recognize your drawing as a data from MNIST which is what it's trained for to predict and make predictions. Moreover, it is possible to train artificial intelligence with your drawings. After you close the program the temporary image will be deleted.
+
+![DigitReader](https://github.com/ugurozdemir97/myprojects/assets/64408736/bb8550e8-4669-4fa6-85c8-cd861d6c67ed)
